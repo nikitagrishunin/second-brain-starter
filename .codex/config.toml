@@ -1,0 +1,3 @@
+# Codex: edit files inside this folder without asking; ask before going online or outside the folder.
+sandbox_mode = "workspace-write"
+approval_policy = "on-request"
