@@ -6,11 +6,11 @@ Copy, paste, change the parts in <angle brackets>.
 
 Open an empty folder in Claude Code or Codex and type:
 
-> Set up my second brain from https://github.com/nikitagrishunin/second-brain-starter. Copy the folder structure here. Then interview me, one question at a time, to fill in CLAUDE.md: who I am, what I'm working on, how I make decisions, what matters most to me, and how I like my answers. Ask for the "because" behind every rule. Max 20 questions. Show me the file before you save it.
+> Set up my second brain from https://github.com/nikitagrishunin/second-brain-starter. If you can't open the link, stop and tell me.
 
-Downloaded the folder instead? Open it and type:
+Downloaded the ZIP instead? Unzip it (you get a folder), open that folder and type:
 
-> This folder is my second brain. Read CLAUDE.md, then interview me to fill it in, one question at a time. Max 20 questions.
+> Set up my second brain
 
 ## 1b. Bring your old chats
 
@@ -37,7 +37,7 @@ Log a decision:
 
 > Read the whole memory. Find duplicates, outdated facts and things that contradict each other. Suggest fixes as a list. Don't change anything until I say yes.
 
-> What did I correct you on three times or more? Suggest rules for CLAUDE.md, each with a "because".
+> What did I correct you on three times or more? Suggest rules for AGENTS.md, each with a "because".
 
 ## 5. Make it automatic (Claude Code)
 
@@ -59,7 +59,7 @@ Both Claude Code and Codex call these scheduled tasks.
 
 Right after you finished a task you'll do again:
 
-> Save how we just did this as a skill in skills/<name>/SKILL.md: when to use it, the steps, what "done" looks like, what never to do. Add one line about it under "My skills" in CLAUDE.md.
+> Save how we just did this as a skill in skills/<name>/SKILL.md: when to use it, the steps, what "done" looks like, what never to do. Add one line about it under "My skills" in AGENTS.md.
 
 ## 9. Build a tool
 
