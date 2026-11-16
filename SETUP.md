@@ -26,41 +26,42 @@ Create and edit files with your file tools (edit/write), not with shell scripts:
 
 ## Step 3. Interview
 
-Fill in the "About me" section of AGENTS.md. Ask **one short, simple question per message** (not three in one), wait for the answer, then the next.
-At most 12 questions, each one simple. In this order, one line = one question:
+Fill in the "About me" section of AGENTS.md. Ask **one short, simple question per message** (not three in one),
+wait for the answer, then the next. **At most 12 questions in total, follow-ups included.** In this order:
 1. What's your name?
 2. What do you do for work?
 3. What city do you live in?
 4. What are the 1-3 biggest things you're working on right now?
-5. Who matters most in your day-to-day? (only what helps you help them)
-6. How do you make big decisions?
-7. What do you never compromise on?
-8. What are your goals for the next few months? Numbers, if you have them.
-9. How do you like my answers: short or detailed?
-10. What should I never do when I help you?
+5. How do you make big decisions?
+6. What are your goals for the next few months? Numbers, if you have them.
+7. How do you like my answers: length, format?
+8. What rules should I follow with you? Like: "never ..., because ...". You can give several.
+
+Follow-ups (they count toward the 12):
+- After question 8, ask once: "Anything else?"
+- Ask "Why?" only about a rule they gave without a reason - not about habits or preferences. At most 2 "Why?" in total.
 
 Rules for the interview:
-- One question = one thing. No "and", no "and why" inside a question.
-- When an answer is a rule ("never...", "always...", "short"), ask "Why?" as the next, separate question.
-  A rule with a reason works in cases they never listed. After "skip", don't ask why.
 - They may answer by voice and ramble. Pull out the facts; don't make them repeat themselves.
-- "Skip" or "I don't know" is a fine answer. Move on and don't ask about that topic again.
+- "Skip" or "I don't know" applies only to the current question: keep everything they already said. Don't come back to it.
 - Don't ask about the memory rules in AGENTS.md (wrap up, decisions, safety): they're already set.
 - Write their rules in their words. Don't make a rule wider than they said it ("no paid courses" stays about courses).
 - Never ask for passwords, card numbers, ID or bank details.
 
 ## Step 4. Save
 
-1. Show them the "About me" section you're about to write, as a short list, in the first person ("I'm...").
+1. Show them the "About me" section you're about to write, in the first person ("I'm..."). Keep the field labels
+   ("Who I am:", "How I like answers:", "My rules:"...) and fill in after the colon.
    Their rules ("never/always ..., because ...") go there as "My rules" lines. Numbers that change (debts, balances,
    dates) don't go there - they go to `memory/`. Never invent a "because": if they gave none, ask once or leave it out.
    Save after their "yes". Keep AGENTS.md under about 60 lines: it loads every session.
 2. Details that don't need to load every time go into `memory/`, one fact per file with a clear name
    (`kids.md`, `career-switch.md`, `debt.md`), each with today's date.
 3. For each big thing they're working on, create `projects/<short-name>/STATE.md` from `projects/_template/`.
-   No amounts or balances in STATE.md: point to the memory file instead ("see memory/debt.md").
+   No amounts or balances in STATE.md: list the related memory files under "Memory files and links".
 4. Choices they made go into decisions.md: date, decision in their words, why. Rules are not decisions: they stay in AGENTS.md.
-5. Add the first entry at the top of sessions.md: today's date, "Done: set up the second brain", "Next: ...".
+5. Add the first entry at the top of sessions.md: today's date, "Done: set up the second brain", "Decided:" only real
+   decisions (or "-"), "Next: ...".
 
 ## Step 5. Permissions (explain in 2-3 lines, don't lecture)
 

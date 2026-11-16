@@ -9,4 +9,4 @@ In progress (3 max):
 
 Waiting on me:
 
-Files and links:
+Memory files and links (e.g. memory/debt.md):
