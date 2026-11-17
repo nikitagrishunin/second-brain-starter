@@ -12,7 +12,8 @@ Works with Claude Code (Anthropic) and Codex (OpenAI). From the video "How to ma
 Set up my second brain from https://github.com/nikitagrishunin/second-brain-starter. If you can't open the link, stop and tell me.
 ```
 
-The AI downloads the folder (it asks once to go online - allow it), then interviews you, one question at a time.
+The AI downloads the folder - it asks a few times to go online and copy files: press Allow each time.
+Then it interviews you, one question at a time.
 Answer by voice if you like, and give the "because" behind every rule.
 
 **No internet access for the AI, or prefer a file?** Click the green **Code** button above → **Download ZIP** and unzip it:
