@@ -41,6 +41,8 @@ Log a decision:
 
 ## 5. Make it automatic (Claude Code)
 
+The folder already has one hook: at every start it shows the top entry of sessions.md. Want more?
+
 > Set up a hook that shows me the "Next" line from the top entry in sessions.md every time a session starts.
 
 ## 6. Connect an app

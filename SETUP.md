@@ -56,7 +56,7 @@ Rules for the interview:
    dates) don't go there - they go to `memory/`. Never invent a "because": if they gave none, ask once or leave it out.
    Save after their "yes". Keep AGENTS.md under about 60 lines: it loads every session.
 2. Details that don't need to load every time go into `memory/`, one fact per file with a clear name
-   (`kids.md`, `career-switch.md`, `debt.md`), each with today's date.
+   (`kids.md`, `career-switch.md`, `debt.md`), each with today's date, and one line for each in `memory/INDEX.md`.
 3. For each big thing they're working on, create `projects/<short-name>/STATE.md` from `projects/_template/`.
    No amounts or balances in STATE.md: list the related memory files under "Memory files and links".
 4. Choices they made go into decisions.md: date, decision in their words, why. Rules are not decisions: they stay in AGENTS.md.

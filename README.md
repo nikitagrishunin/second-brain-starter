@@ -19,7 +19,8 @@ Answer by voice if you like, and give the "because" behind every rule.
 **No internet access for the AI, or prefer a file?** Click the green **Code** button above → **Download ZIP** and unzip it:
 you get a folder. Open that folder in Claude Code or Codex and type: `Set up my second brain`.
 
-After setup: say **"wrap up"** at the end of every session. That's the whole habit.
+After setup: say **"wrap up"** at the end of every session. The AI files what's still unsaved, then writes Done / Decided /
+Next. That's the whole habit.
 
 ## What you need
 
@@ -37,11 +38,11 @@ After setup: say **"wrap up"** at the end of every session. That's the whole hab
 | SETUP.md | Step-by-step setup instructions for the AI. Moves to `archive/` after setup. |
 | sessions.md | Where you stopped: Done, Decided, Next. |
 | decisions.md | What you decided, and why. |
-| memory/ | One fact per file, with clear names. |
+| memory/ | One fact per file, with clear names. INDEX.md lists them, one line each. |
 | projects/ | One folder per project, with a short STATE.md. |
 | skills/ | How you do your recurring tasks. |
 | inbox/, archive/ | Things to sort. Things that are done. |
-| .claude/, .agents/ | Safe permission settings for Claude Code, and the setup skill for Claude Code and Codex. |
+| .claude/, .agents/ | Claude Code: safe permissions and a hook that shows where you stopped at every start. Setup skill for Claude Code and Codex. |
 | PROMPTS.md | Every prompt from the video. |
 
 ## Why it's built like this
